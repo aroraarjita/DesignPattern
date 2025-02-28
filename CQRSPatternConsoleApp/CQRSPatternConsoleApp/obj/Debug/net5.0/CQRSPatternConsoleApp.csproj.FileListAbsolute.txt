@@ -1,0 +1,15 @@
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.AssemblyInfoInputs.cache
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.AssemblyInfo.cs
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.csproj.CoreCompileInputs.cache
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.exe
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.deps.json
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.runtimeconfig.json
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.runtimeconfig.dev.json
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.dll
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\ref\CQRSPatternConsoleApp.dll
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\bin\Debug\net5.0\CQRSPatternConsoleApp.pdb
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.dll
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\ref\CQRSPatternConsoleApp.dll
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.pdb
+C:\DesignPattern\CQRSPatternConsoleApp\CQRSPatternConsoleApp\obj\Debug\net5.0\CQRSPatternConsoleApp.genruntimeconfig.cache

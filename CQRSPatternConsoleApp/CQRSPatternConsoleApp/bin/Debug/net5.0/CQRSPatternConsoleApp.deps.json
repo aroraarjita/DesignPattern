@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "CQRSPatternConsoleApp/1.0.0": {
+        "runtime": {
+          "CQRSPatternConsoleApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CQRSPatternConsoleApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
